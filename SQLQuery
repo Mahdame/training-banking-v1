@@ -1,0 +1,10 @@
+CREATE DATABASE TrainingBanking; 
+
+CREATE TABLE Users (
+    UserID int,
+    FirstName varchar(255),
+    Email varchar(255),
+    Phone varchar(255),
+    Address varchar(255),
+    Username varchar(255)
+);
